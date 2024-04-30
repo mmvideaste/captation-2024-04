@@ -1,0 +1,36 @@
+.display {
+  font-family: "Rubik Doodle Shadow", system-ui;
+  font-weight: 400;
+  font-style: normal;
+}
+.regular-text {
+  font-family: "Jersey 15", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+.skew {
+  transform: skew(0deg, -3deg);
+}
+.center-text {
+  text-align: center;
+}
+.center-on-page {
+  max-width: 315px;
+  margin-left: auto;
+  margin-right: auto;
+}
+.front-light {
+  color: #FFC100;
+}
+.back-dark {
+  background-color: #C40C0C;
+}
+.front-dark {
+  color: #C40C0C;
+}
+.back-light {
+  background-color: #FFC100;
+}
+a {
+  color: inherit;
+}
